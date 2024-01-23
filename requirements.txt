@@ -13,4 +13,4 @@ pyinstaller==5.1
 pyinstaller-hooks-contrib==2022.7
 pywin32-ctypes==0.2.0
 SQLAlchemy==1.4.36
-Werkzeug==2.1.2
+Werkzeug==2.3.8
